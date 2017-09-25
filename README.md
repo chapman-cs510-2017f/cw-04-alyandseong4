@@ -1,8 +1,8 @@
 # CS510 CW 4
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Aly and Seong**
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-04-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-04-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-04-alyandseong4.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-04-alyandseong4)
 
 ## Specification
 
@@ -24,7 +24,9 @@ Complete the following exercises, saving your solutions in the indicated files. 
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+1. **Jupyter notebook is a great tool to communicate ideas, so that it is necessary for data scientists to learn it. Visualizing ideas effectively is as important as creating a code.**
+1. **Testing written codes and making defendable codes from errors are equally important to create a new code.**
+1. **Algorithm is the core of a program. It is difficult area to master, because we have to know and think about the details of implementations. It is not only a subject of coding, but also of methematical/logical thinking. But a program gets a real pay-off with a good algorithm.**
 
 ## Honor Pledge
 
@@ -35,4 +37,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Aly and Seong**
